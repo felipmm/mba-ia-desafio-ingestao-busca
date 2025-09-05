@@ -12,7 +12,7 @@ Sistema RAG (Retrieval-Augmented Generation) para busca e chat sobre documentos 
 
 ### 1. Clone o repositório e navegue até o diretório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/felipmm/mba-ia-desafio-ingestao-busca.git
 cd mba-ia-desafio-ingestao-busca
 ```
 
